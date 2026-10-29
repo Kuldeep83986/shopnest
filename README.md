@@ -6,7 +6,7 @@ A full-stack e-commerce web application built with the **MERN stack** (MongoDB, 
 
 ## 🚀 Live Demo
 
-- **Frontend:** *(Deploy URL here)*
+- **Frontend:** [https://shopnest-henna-delta.vercel.app](https://shopnest-henna-delta.vercel.app)
 - **Backend API:** [https://shopnest-2x3l.onrender.com](https://shopnest-2x3l.onrender.com)
 
 ---
